@@ -5,7 +5,8 @@ namespace Akademi.Controllers
     public class CourseController : Controller 
     {
         public IActionResult Index(){
-            return View();
+            var model = Repository.Applications;
+            return View(model);
         }
         public IActionResult Apply(){
             return View();
@@ -14,7 +15,8 @@ namespace Akademi.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Apply([FromForm]Candidate model){
-            return View();
+            Repository.Add(model);
+            return View("Feedback", model);
         }
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hambu\\OneDrive\\Masaüstü\\dot\\Basics\\Basics.csproj": {}
+    "C:\\Users\\hambu\\OneDrive\\Belgeler\\GitHub\\dot\\Basics\\Basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hambu\\OneDrive\\Masaüstü\\dot\\Basics\\Basics.csproj": {
+    "C:\\Users\\hambu\\OneDrive\\Belgeler\\GitHub\\dot\\Basics\\Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hambu\\OneDrive\\Masaüstü\\dot\\Basics\\Basics.csproj",
+        "projectUniqueName": "C:\\Users\\hambu\\OneDrive\\Belgeler\\GitHub\\dot\\Basics\\Basics.csproj",
         "projectName": "Basics",
-        "projectPath": "C:\\Users\\hambu\\OneDrive\\Masaüstü\\dot\\Basics\\Basics.csproj",
+        "projectPath": "C:\\Users\\hambu\\OneDrive\\Belgeler\\GitHub\\dot\\Basics\\Basics.csproj",
         "packagesPath": "C:\\Users\\hambu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hambu\\OneDrive\\Masaüstü\\dot\\Basics\\obj\\",
+        "outputPath": "C:\\Users\\hambu\\OneDrive\\Belgeler\\GitHub\\dot\\Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hambu\\AppData\\Roaming\\NuGet\\NuGet.Config",
